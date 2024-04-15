@@ -1,2 +1,5 @@
 # Modified-MLE-of-TPGT-CR-model
 Modified maximum likelihood estimator for censored linear regression model with two-piece generalized t distribution
+
+In this paper, we propose an extension of the CR model under the two-piece generalized $t$ (TPGT)-error distribution, called TPGT-CR model. The TPGT-CR model offers greater flexibility in modeling data by accommodating skewness and heavy tails. We developed a modified maximum likelihood (MML) estimator for the proposed model and introduced the modified deviance residual to detect outliers.  The developed MML estimator under the TPGT assumption possesses several appealing merits, including robustness against outliers, asymptotic equivalence to the maximum likelihood estimator, and explicit functions of sample observations. Simulation studies are conducted to examine the finite sample performance, robustness, and effectiveness of both the classical and proposed estimators. The results from both the simulated and real data illustrate the usefulness of the proposed method. 
+
